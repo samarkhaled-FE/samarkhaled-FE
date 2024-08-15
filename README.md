@@ -1,7 +1,4 @@
-## Hi there 👋
-
-
-<img width="250" align="right" src="https://github.com/samarkhaled-FE/repository-name/blob/main/myphoto-samar.jpg?raw=true">
+<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
   Welcome to Samar Khaled's profile!
@@ -10,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
   </a>
 </p> 
 
@@ -48,14 +45,3 @@
 <a href="https://komarev.com/ghpvc/?username=samarkhaled-FE&style=for-the-badge">
   <img src="https://komarev.com/ghpvc/?username=samarkhaled-FE&style=for-the-badge">
 </a>
-
-
-
-
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarkhaled-FE&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
-<a href="https://komarev.com/ghpvc/?username=samarkhaled-FE&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=samarkhaled-FE&style=for-the-badge">
-</a>
-
