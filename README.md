@@ -1,36 +1,36 @@
 ## Hi there 👋
 
 
-
-
 <img width="250" align="right" src="https://github.com/samarkhaled-FE/repository-name/blob/main/myphoto-samar.jpg?raw=true">
-
-
 
 <h3 align="center">
   Welcome to Samar Khaled's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  </a>
 </p> 
 
 - 🏢 I'm a Software Engineer and I work as a freelancer on platforms like Mostaql, Khamsat, and Upwork.
-- 👨‍💻  I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, ReactJS, NodeJS,HTM5 and CSS3 or anything related to web development.
+- 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
+- 💬 Ask me about my experience with JavaScript, ReactJS, NodeJS, HTM5, and CSS3 or anything related to web development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 - 👨‍💻 Check out my portfolio at https://Samar-khaled.netlify.app/ to see some of the projects I've worked on.
 
+### Connect with Me:
 
-### Connect with Me :
-
-<a href="www.linkedin.com/in/samar-khaled-b42356237" target="_blank"><img src="www.linkedin.com/in/samar-khaled-b42356237"/></a>
-<a href="https://t.me/SamarKhaled-sa" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-
+<a href="https://www.linkedin.com/in/samar-khaled-b42356237" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white">
+</a>
+<a href="https://t.me/SamarKhaled-sa" target="_blank">
+  <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
 
 ### 🛠 &nbsp;Tech Stack
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -42,6 +42,13 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarkhaled-FE&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+
+<a href="https://komarev.com/ghpvc/?username=samarkhaled-FE&style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=samarkhaled-FE&style=for-the-badge">
+</a>
+
 
 
 
